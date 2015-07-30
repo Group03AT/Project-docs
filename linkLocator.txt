@@ -1,0 +1,54 @@
+1comment. .DESVALSummaryErrors > li:nth-child(1) > a:nth-child(1)
+2title. .DESVALSummaryErrors > li:nth-child(2) > a:nth-child(1)
+3gender. .DESVALSummaryErrors > li:nth-child(3) > a:nth-child(1) 
+firstname.DESVALSummaryErrors > li:nth-child(4) > a:nth-child(1)
+5lastname. .DESVALSummaryErrors > li:nth-child(5) > a:nth-child(1)
+6dateofbirth. .DESVALSummaryErrors > li:nth-child(6) > a:nth-child(1)
+7citizenship. .DESVALSummaryErrors > li:nth-child(7) > a:nth-child(1)
+8residence. .DESVALSummaryErrors > li:nth-child(8) > a:nth-child(1)
+9address. .DESVALSummaryErrors > li:nth-child(9) > a:nth-child(1)
+10 city. .DESVALSummaryErrors > li:nth-child(10) > a:nth-child(1)
+11contactnumber. .DESVALSummaryErrors > li:nth-child(11) > a:nth-child(1)
+12 maritalstt. .DESVALSummaryErrors > li:nth-child(12) > a:nth-child(1)
+13 language. .DESVALSummaryErrors > li:nth-child(13) > a:nth-child(1)
+14 education. .DESVALSummaryErrors > li:nth-child(14) > a:nth-child(1)
+15 email. .DESVALSummaryErrors > li:nth-child(15) > a:nth-child(1)
+16 pasword. .DESVALSummaryErrors > li:nth-child(16) > a:nth-child(1)
+
+
+
+
+#txtOtherVisaInformation
+.DESVALSummaryHeader > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(2) > b:nth-child(1) > span:nth-child(1)
+
+#PersonalInformation_valPersonFirstName1_Txt
+
+
+Alert:
+
+1comment. #RequiredTextValidator5_Txt
+2title. #PersonalInformation_valPersonTitle1_Txt
+3gender. #PersonalInformation_RequiredListValidatorddPersonSex_Txt
+4firstnme. #PersonalInformation_valPersonFirstName1_Txt
+5lastnme. #PersonalInformation_valPersonLastName_Txt
+6birthday. #PersonalInformation_DataTypeCheckValidator1_Txt
+7citizenship. #PersonalInformation_valPersonalCitizenship_Txt
+8residence. #PersonalInformation_valCountry_Txt
+9address. #PersonalInformation_valPersonalAddress1_Txt
+10city. #PersonalInformation_valCityCounty_Txt
+11workphone. #PersonalInformation_valDaytimePhone_Txt
+12marital. #PersonalInformation_valMaritalStatus_Txt
+13language. #PersonalInformation_valLanguageEnglishAbility_Txt
+14education. #PersonalInformation_valEducationLevel_Txt
+15email. #PersonalInformation_valPersonalEmail_Txt
+16password. #PersonalInformation_valPassword_Txt
+
+
+enter a invalid number phone:   #PersonalInformation_valDaytimeMulti_Txt
+
+Fax:  #PersonalInformation_txtPhoneFaxCountry
+#PersonalInformation_txtPhoneFaxArea
+#PersonalInformation_txtPhoneFaxNumber
+
+
+
